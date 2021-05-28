@@ -1,0 +1,9 @@
+#name {
+    text-align: center;
+}
+
+#nav-bar {
+    border-bottom-width: 5px;
+    border-bottom-style: solid;
+    border-bottom-color: white;
+}
